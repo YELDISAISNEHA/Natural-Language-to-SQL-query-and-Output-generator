@@ -1,0 +1,32 @@
+Basic Level
+Select all product details.
+
+List all products in the 'Electronics' category.
+
+Get the names and prices of all products with price > 100.
+
+Count how many products are available in the dataset.
+
+List all distinct product categories.
+
+🧩 Medium Level
+Find the average rating for each category.
+
+List the top 3 most expensive products.
+
+Find the product with the highest number of reviews.
+
+Count the number of products launched in each year.
+
+List products with discounts greater than 10%.
+
+🧠 Advanced Level
+Find the category with the highest average price.
+
+List brands with more than 1 product and their average rating.
+
+Find products where stock is below the average stock for their category.
+
+Convert LaunchDate to date format and list products launched after Jan 1, 2022.
+
+Rank products within each category based on rating and review count.
