@@ -1,0 +1,7 @@
+streamlit
+pandas
+mysql-connector-python
+langchain
+langchain-community
+langchain-ollama
+ollama
